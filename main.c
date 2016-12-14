@@ -623,7 +623,7 @@ void init_board()
         if(i == 13 || i == 6) {
             continue;
         }
-        board[i] = 4; // beans per bowl
+        board[i] = 6; // beans per bowl
     }
 }
 
